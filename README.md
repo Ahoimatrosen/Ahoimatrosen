@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="660" src="https://github.com/Ahoimatrosen/Ahoimatrosen/blob/main/assets/sailing.gif?raw=true"  />
+  <img height="600" src="https://github.com/Ahoimatrosen/Ahoimatrosen/blob/main/assets/sailing.gif?raw=true"  />
 </div>
 
 ###
