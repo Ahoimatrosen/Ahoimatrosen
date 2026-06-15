@@ -4,8 +4,8 @@
 
 ###
 
-<div align="center" style="border-radius='50%'">
-  <img height="370" src="https://github.com/Ahoimatrosen/Ahoimatrosen/blob/main/assets/sailing.gif?raw=true"  />
+<div align="center">
+  <img height="660" src="https://github.com/Ahoimatrosen/Ahoimatrosen/blob/main/assets/sailing.gif?raw=true"  />
 </div>
 
 ###
