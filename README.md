@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Moin, ich bin Daniel.<br>Ich bin gelernter Hörakustikmeister und aktuell in der Ausbildung zum Softwareentwickler. Ich übertrage die Sorgfalt und Präzision meines Handwerks auf die Entwicklung von Web-Anwendungen.<br><br>Tools: VS Code, Git & GitHub<br><br>Wenn ich nicht am Rechner sitze, findet man mich meistens am Schachbrett.</p>
+<p align="center">Moin, ich bin Daniel.<br>Ich bin gelernter Hörakustikmeister und aktuell in der Ausbildung zum Softwareentwickler bei der Developer Akademie. Ich übertrage die Sorgfalt und Präzision meines Handwerks auf die Entwicklung von Web-Anwendungen.<br><br>Tools: VS Code, Git & GitHub<br><br>Wenn ich nicht am Rechner sitze, findet man mich meistens am Schachbrett.</p>
 
 ###
 
