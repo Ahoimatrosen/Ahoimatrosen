@@ -12,7 +12,9 @@
 
 <p align="center">Moin, ich bin Daniel.
 
-Gelernter Hörakustikmeister, aktuell auf dem Weg zum Softwareentwickler bei der Developer Akademie. Ich liebe die Kombination aus Kreativität und Technik, die die Webentwicklung jeden Tag aufs Neue fordert.
+Gelernter Hörakustikmeister, aktuell auf dem Weg zum Softwareentwickler bei der Developer Akademie. 
+
+Ich liebe die Kombination aus Kreativität und Technik, die die Webentwicklung jeden Tag aufs Neue fordert.
  
 Privat schalte ich am liebsten beim Schach oder mit meiner Familie ab. Ich freue mich über den Austausch mit Gleichgesinnten.
 
